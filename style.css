@@ -1,4 +1,7 @@
 body {
+  <head> <link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/x-icon" href="link to image">
+
 background-color: antiquewhite;
 }
 
@@ -34,3 +37,5 @@ letter-spacing: 10px;
     text-decoration: none;
     color: darkslategray;
   }
+  </head>
+  </body>
