@@ -1,11 +1,4 @@
 body {
-  <head> <link rel="stylesheet" href="style.css">
-<link rel="icon" type="image/x-icon" href="link to image">
- <nav>
-  <li><a href="index.html"> HOME </a></li>
-  <li><a href="apps.html"> MY APPS </a></li>
-  </nav>
-
 background-color: antiquewhite;
 }
 
@@ -17,29 +10,3 @@ letter-spacing: 10px;
   img: {  
   width: 30%
 }
-  
-  nav {
-    list-style-type: none;
-    position: fixed;
-    background-color: antiquewhite
-    width: 100%;
-    top: 0;
-    left: 0;
-    
-  }
-  
-  li {
-    display: incline;
-    padding: 30%
-      
-  }
-  li:hover {
-    background-color: black;
-  
-  }
-  a {
-    text-decoration: none;
-    color: darkslategray;
-  }
-  </head>
-  </body>
