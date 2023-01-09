@@ -2,11 +2,42 @@ body {
 background-color:#e6e6fa;
 }
 
+img {
+  display: block;
+  max-width:75%;
+  height:400px;
+}
+
+nav {
+  list-style-type: none;
+  position: fixed;
+  width: 100%;
+  background-color: ghostwhite;
+  top: 0;
+  left: 0;
+  color: black
+}
+
 h2 { 
 color: black;
 text-align: center;
-  font-size: 50px;
+font-size: 90px;
 letter-spacing: 10px; 
-  img: {  
-  width: 30%
+ 
+}
+
+li {
+  display: incline;
+  padding: 19px;
+  float: left;
+}
+
+li:hover {
+  background-color: lavendar;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
 }
