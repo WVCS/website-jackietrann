@@ -4,8 +4,7 @@ background-color:#e6e6fa;
 
 img {
   display: block;
-  max-width: 75%;
-  height:400px;
+  max-width:75%;
 }
 
 nav {
@@ -15,12 +14,20 @@ nav {
   background-color: ghostwhite;
   top: 0;
   left: 0;
-  color: black;
+  color: black
+}
+
+h2 { 
+color: black;
+text-align: center;
+font-size: 90px;
+letter-spacing: 10px; 
+height: 400px;
 }
 
 li {
   display: incline;
-  padding: 17px;
+  padding: 19px;
   float: left;
 }
 
@@ -30,13 +37,8 @@ li:hover {
 
 a {
   text-decoration: none;
+  font-size: 20px;
   color: black;
 }
 
-h2 { 
-color: black;
-text-align: center;
-font-size: 90px;
-letter-spacing: 10px; 
- 
-}
+  
