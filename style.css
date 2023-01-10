@@ -14,15 +14,15 @@ nav {
   background-color: ghostwhite;
   top: 0;
   left: 0;
-  color: black
+  color: black;
 }
 
 h2 { 
 color: black;
 text-align: center;
-font-size: 90px;
+font-size: 100px;
 letter-spacing: 10px; 
-height: 400px;
+height: 200px;
 }
 
 li {
